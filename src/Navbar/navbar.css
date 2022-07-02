@@ -1,0 +1,14 @@
+.navbar-div {
+    display: flex;
+margin-bottom: 5%;
+    background-color: black;
+    color: white;
+
+    height: 50px;
+}
+
+.navbar-div>a {
+    margin: 10px 100px;
+    color: aliceblue;
+    text-decoration: none;
+}
